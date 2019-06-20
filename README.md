@@ -1,7 +1,7 @@
 
 <div class=title-content>
 <h1>
-Web Developer Portfolio for Jeff Salazar
+<center>Web Developer Portfolio for Jeff Salazar</center>
 </h1>
 </div>
 
