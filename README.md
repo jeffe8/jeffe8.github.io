@@ -1,8 +1,8 @@
-# WebDevPortfolio-SalazarJeff
+
 <div class=title-content>
-<h2>
+<h1>
 Web Developer Portfolio for Jeff Salazar
-</h2>
+</h1>
 </div>
 
 <div>
